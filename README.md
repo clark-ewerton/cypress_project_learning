@@ -6,6 +6,7 @@ This project was developed as part of the Cypress course called 'Testes de Aplic
 
 ## Features
 There're 3 features where it was developed everything that I've learned of Cypress. They can be found in cypress/integration/examples/cypress_course_project/
+
  APITest.spec.js
  
  FrontEndTests.spec.js
