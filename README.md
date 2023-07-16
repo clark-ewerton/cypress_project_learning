@@ -5,6 +5,8 @@ Brief project description.
 This project was developed as part of the Cypress course called 'Testes de Aplicações Modernas com Cypress' from Udemy.
 
 Web Application used: https://barrigareact.wcaquino.me/
+
+
 API REST Application used: https://barrigarest.wcaquino.me
 
 ## Features
