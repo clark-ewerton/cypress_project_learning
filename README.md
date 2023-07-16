@@ -5,7 +5,7 @@ Brief project description.
 This project was developed as part of the Cypress course called 'Testes de Aplicações Modernas com Cypress' from Udemy.
 
 ## Features
-There're 3 features where it was developed everything that I've learned of Cypress. They can be found in cypress/integration/examples/cypress_course_project/ 
+There're 3 features where it was developed everything that I've learned of Cypress. They can be found in cypress/integration/examples/cypress_course_project/
  APITest.spec.js
  FrontEndTests.spec.js
  functionalTests.spec.js
