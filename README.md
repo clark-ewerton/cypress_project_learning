@@ -1,57 +1,56 @@
 # cypress_project_learning
 
-Nome do Projeto
-Cypress Logo
+Brief project description.
 
-Breve descrição do projeto.
+This project was developed as part of the Cypress course called 'Testes de Aplicações Modernas com Cypress' from Udemy.
 
-Este projeto foi desenvolvido como parte do curso de Cypress. [Adicione uma breve descrição sobre o curso e o que você aprendeu.]
+##Features
+There're 3 features where it was developed everything that I've learned of Cypress. They can be found in cypress/integration/examples/cypress_course_project/ 
+ APITest.spec.js
+ FrontEndTests.spec.js
+ functionalTests.spec.js
+ 
+##Prerequisites
+Before getting started, make sure you have the following prerequisites installed on your machine:
 
-Funcionalidades
- Funcionalidade 1
- Funcionalidade 2
- Funcionalidade 3
-Pré-requisitos
-Antes de começar, verifique se você possui os seguintes requisitos instalados em sua máquina:
+Node.js (version X.X.X): Download link
+Installation
+Follow the steps below to install the project and its dependencies:
 
-Node.js (versão X.X.X): Link para download
-Instalação
-Siga os passos abaixo para instalar o projeto e suas dependências:
-
-Clone o repositório:
+Clone the repository:
 bash
 Copy code
-git clone https://github.com/seu_usuario/seu_projeto.git
-cd seu_projeto
-Instale as dependências:
+git clone https://github.com/your_username/your_project.git
+cd your_project
+Install the dependencies:
 bash
 Copy code
 npm install
-Uso
-Para executar os testes de automação, utilize o seguinte comando:
+Usage
+To run the automation tests, use the following command:
 
 bash
 Copy code
 npm test
-Estrutura do Projeto
+Project Structure
 bash
 Copy code
 ├── cypress/
-│   ├── fixtures/         # Dados para os testes
-│   ├── integration/      # Testes de automação
-│   ├── plugins/          # Plugins do Cypress
-│   ├── support/          # Arquivos de suporte e configuração
-│   └── videos/           # Gravações dos testes executados
-├── node_modules/         # Dependências do Node.js
-├── .gitignore            # Arquivos e pastas ignorados pelo Git
-├── cypress.json          # Configurações do Cypress
-├── package.json          # Informações do projeto e dependências
-└── README.md             # Documentação do projeto
-Contribuição
-Contribuições são bem-vindas! Se você quiser contribuir para o projeto, siga estas etapas:
+│   ├── fixtures/         # Data for the tests
+│   ├── integration/      # Automation tests
+│   ├── plugins/          # Cypress plugins
+│   ├── support/          # Support and configuration files
+│   └── videos/           # Test run recordings
+├── node_modules/         # Node.js dependencies
+├── .gitignore            # Files and folders ignored by Git
+├── cypress.json          # Cypress configuration
+├── package.json          # Project information and dependencies
+└── README.md             # Project documentation
+Contribution
+Contributions are welcome! If you want to contribute to the project, follow these steps:
 
-Faça um fork do repositório
-Crie uma nova branch: git checkout -b minha-feature
-Faça o commit das suas alterações: git commit -m 'Adicionando nova feature'
-Faça o push para a branch: git push origin minha-feature
-Crie um novo Pull Request
+Fork the repository
+Create a new branch: git checkout -b my-feature
+Commit your changes: git commit -m 'Adding a new feature'
+Push to the branch: git push origin my-feature
+Create a new Pull Request
