@@ -17,7 +17,10 @@ There're 3 features where it was developed everything that I've learned of Cypre
 Before getting started, make sure you have the following prerequisites installed on your machine:
 
 Node.js (version 18.16.0)
-Installation
+
+Cypress (version 9.5.1)
+
+## Installation
 Follow the steps below to install the project and its dependencies:
 
 Clone the repository:
