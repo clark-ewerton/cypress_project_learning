@@ -16,7 +16,7 @@ There're 3 features where it was developed everything that I've learned of Cypre
 ## Prerequisites
 Before getting started, make sure you have the following prerequisites installed on your machine:
 
-Node.js (version X.X.X): Download link
+Node.js (version 18.16.0)
 Installation
 Follow the steps below to install the project and its dependencies:
 
